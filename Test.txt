@@ -1,1 +1,3 @@
-t
+Hi , i am SG.
+Welcome to my github repository.
+This is test file to chhck the git and github configuration.
